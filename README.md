@@ -1,9 +1,5 @@
 # Cats-and-Dogs---Binary-Image-Classification
 
-1. Binary Image Classification:
-
-CNN ( Convulational Neural Network ). One of the most popular uses of CNN is image classification.Facebook uses CNN for automatic image tagging, Amazon for product recommendation, Google for search through user's photos
-
 I used Python syntax.
 
 I used framework Keras. Keras is a high level neural network API written in Python. But Keras does not work by itself. It needs a backend - Googles' Tensorflow
